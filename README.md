@@ -1,2 +1,2 @@
-# Jana-Baradei.github.io
+# Jana.github.io
 Web design
