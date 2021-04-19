@@ -1,0 +1,33 @@
+#mon_menu{
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+}
+
+#mon_menu li {
+  display:inline;
+  padding: 5px;
+  text-align: center;
+}
+
+#mon_menu a:link, #mon_menu a:visited {
+  display: inline-block;
+  width:100px;
+  text-decoration: none;
+  color: rgb(255,255,255);
+  padding:10px;
+}
+
+#mon_menu a:hover, #mon_menu a:active{
+  border-bottom: solid 2px rgba(220, 30, 30, 0.7);
+  padding:10px;
+}
+
+nav{
+  padding:10px;
+  margin: 0px;
+  height: 50px;
+  background-color: rgba(50, 100, 190, 0.5);
+  display: flex;
+}
